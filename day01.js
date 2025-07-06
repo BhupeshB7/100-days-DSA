@@ -12,4 +12,5 @@ function twoSum(nums, target) {
    } 
 };
 
+
 console.log(twoSum([5,2,11,7,15],18));
