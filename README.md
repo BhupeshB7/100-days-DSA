@@ -30,7 +30,7 @@ This repository contains my daily solutions to the most popular DSA problems cat
 | 🕐 | Set Matrix Zeroes | |
 | 🕐 | Spiral Matrix | |
 | 🕐 | Search a 2D Matrix | |
-| 🕐 | Merge Sorted Arrays | |
+| 🕐 | Merge Sorted Arrays  and Next Permuation| |
 | 🕐 | Subarray Sum Equals K | |
 | 🕐 | Longest Consecutive Sequence | |
 | 🕐 | Maximum Product Subarray | |
